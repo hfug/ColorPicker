@@ -4,12 +4,3 @@ I have no idea why I don't get git, and now eGit, I must be stupid!!
 This repo is to share working with the flash components in FDT. they all are include in the swc
 
 You can see an example of this working on my blog http://hfug.net/?p=707
-
------------------------ using Flash Components in FDT -------------------------------
-Flash CS 4
-Create a new AS 3
-drag a component to the library
-in the publish settings make sure ".swc" is checked
-publish movie
-
-FDT
