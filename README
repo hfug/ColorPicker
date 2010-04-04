@@ -1,2 +1,11 @@
 this is me still trying to Learn git!
 I have no idea why I don't get git, and now eGit, I must be stupid!!
+
+----------------------- using Flash Components in FDT -------------------------------
+Flash CS 4
+Create a new AS 3
+drag a component to the library
+in the publish settings make sure ".swc" is checked
+publish movie
+
+FDT
